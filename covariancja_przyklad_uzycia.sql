@@ -1,0 +1,1 @@
+select dbo.Cov(x,y) as covariance from cova
